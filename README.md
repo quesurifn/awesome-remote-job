@@ -190,6 +190,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Working Nomads](https://www.workingnomads.co/jobs)
 
 ## Job boards aggregators
+  1. [The Remote Job](https://www.theremotejob.io) - Crawls indeed, monster, weworkremotely, dice, stackoverflow jobs and others to find the widest selection of remote jobs on the internet. 
   1. [Bergamot](https://bergamot.io/) - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required.
   1. [Career Vault](https://www.careervault.io) - Hundreds of remote jobs added each day from thousands of company career pages. Free and no signup required.
   1. [Findwork](https://findwork.dev/) Crawls multiple job boards and enriches job postings with Glassdoor (reviews) and Crunchbase (funding).
